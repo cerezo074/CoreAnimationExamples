@@ -34,7 +34,6 @@ class ViewController: UIViewController {
             digit.layer.magnificationFilter = "nearest"
         }
         
-        
         tick()
     }
 
